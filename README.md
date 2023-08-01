@@ -1,6 +1,6 @@
 # Breast Cancer Prediction with Machine Learning
 
-![Breast Cancer](https://github.com/nih4t/Breast-Cancer-Prediction/assets/82613166/4145eeeb-5f8b-4b7a-be91-fae5bc98cc6b)
+![Breast Cancer](https://github.com/nih4t/Breast-Cancer-Prediction/assets/82613166/3d8a3787-33b6-43f7-9f0b-598ce09a4828)
 
 ## Overview
 
